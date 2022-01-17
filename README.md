@@ -1,2 +1,2 @@
 # TechProposal
-技术方案
+图
