@@ -1,76 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T08:08:19.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rRbY1icKjtDiHgEjKyzL" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T08:12:05.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="_Z8enyVRHlB_wOAJUjlg" version="16.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1509" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--23" value="运行环境" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--23" value="运行环境" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--25" value="微信、抖音等各小程序平台" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="90" width="210" height="20" as="geometry" />
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--25" value="微信、抖音等各小程序平台" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="165" y="90" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;" edge="1" target="nQVj50z2Bvgcwz3XXlZ--25" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nQVj50z2Bvgcwz3XXlZ--25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--27" value="App" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--27" value="App" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="255" y="150" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="nQVj50z2Bvgcwz3XXlZ--27" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--23">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--23" target="nQVj50z2Bvgcwz3XXlZ--27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="215" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--29" value="外部H5（微信、手机端浏览器）" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--29" value="外部H5（微信、手机端浏览器）" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="165" y="210" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="nQVj50z2Bvgcwz3XXlZ--29" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--23">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--23" target="nQVj50z2Bvgcwz3XXlZ--29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--31" value="Taro.setStorage、Taro.getStorage，官方抹平了各小程序端差异" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="90" width="450" height="20" as="geometry" />
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--31" value="Taro.setStorage、Taro.getStorage，官方抹平了各小程序端差异" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
+          <mxGeometry x="431" y="90" width="450" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="nQVj50z2Bvgcwz3XXlZ--31" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--25">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--25" target="nQVj50z2Bvgcwz3XXlZ--31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--33" value="通过jsapi调用USS存储在原生App的数据库中，支持weex和H5共同访问" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="415" y="150" width="510" height="20" as="geometry" />
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--33" value="通过jsapi调用USS存储在原生App的数据库中，支持weex和H5共同访问" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="431" y="150" width="510" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--34" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="nQVj50z2Bvgcwz3XXlZ--33" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--27">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--34" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--27" target="nQVj50z2Bvgcwz3XXlZ--33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--38" value="localStorage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--38" value="localStorage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="431" y="210" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--39" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="nQVj50z2Bvgcwz3XXlZ--38" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--29">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--39" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=15;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nQVj50z2Bvgcwz3XXlZ--29" target="nQVj50z2Bvgcwz3XXlZ--38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--45" value="Storage" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--45" value="Storage" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="390" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--46" value="set({ key, value }): Promise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="nQVj50z2Bvgcwz3XXlZ--45">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--46" value="set({ key, value }): Promise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" parent="nQVj50z2Bvgcwz3XXlZ--45" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--47" value="get({ key }): Promise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="nQVj50z2Bvgcwz3XXlZ--45">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--47" value="get({ key }): Promise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" parent="nQVj50z2Bvgcwz3XXlZ--45" vertex="1">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--48" value="remove({ key }): Promise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="nQVj50z2Bvgcwz3XXlZ--45">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--48" value="remove({ key }): Promise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" parent="nQVj50z2Bvgcwz3XXlZ--45" vertex="1">
           <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--49" value="clear(): Promise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="nQVj50z2Bvgcwz3XXlZ--45">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--49" value="clear(): Promise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" parent="nQVj50z2Bvgcwz3XXlZ--45" vertex="1">
           <mxGeometry y="120" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nQVj50z2Bvgcwz3XXlZ--51" value="统一Storage api，后续可拓展支持存储有效期等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nQVj50z2Bvgcwz3XXlZ--51" value="统一Storage api，后续可拓展支持存储有效期等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="340" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
