@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T09:41:03.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="mzHb4D14pQ97YPztYaTD" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T09:51:35.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="5gemisN9cVwgRf2mfa7b" version="16.2.7" type="github">
   <diagram id="oeQBiEORz0I9eKUS21Ui" name="Page-1">
-    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,6 +175,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="857.67" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fllPb2djwLRIhumXTyLn-73" value="统一EventCenter api" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="770" y="50" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fllPb2djwLRIhumXTyLn-74" value="on({ eventName, callback }): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fllPb2djwLRIhumXTyLn-73">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fllPb2djwLRIhumXTyLn-75" value="emit({ eventName, data, sticky = false }): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fllPb2djwLRIhumXTyLn-73">
+          <mxGeometry y="52" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fllPb2djwLRIhumXTyLn-76" value="off({ eventName, callback }): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fllPb2djwLRIhumXTyLn-73">
+          <mxGeometry y="78" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fllPb2djwLRIhumXTyLn-77" value="removeStickyEvent({ eventName }): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fllPb2djwLRIhumXTyLn-73">
+          <mxGeometry y="104" width="300" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
