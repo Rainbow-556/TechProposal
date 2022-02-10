@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T03:06:30.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="hyLJCvmS-ccxdgvyD2gA" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T11:54:33.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="VnvXEn4IJLw1Vu0xsqj_" version="16.4.7" type="github">
   <diagram id="w1EfdIl-aYpWK7ivXVJ2" name="Page-1">
     <mxGraphModel dx="1292" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -82,21 +82,33 @@
             <mxPoint x="430" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-2VNwlXYwppwmO5gHGTp-1" value="调用微信jssdk配置分享数据" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="-2VNwlXYwppwmO5gHGTp-1" value="调用微信jssdk配置分享数据" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="460" y="270" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-2VNwlXYwppwmO5gHGTp-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="-2VNwlXYwppwmO5gHGTp-1" parent="1" source="3PhhbraUgSF7zt4RWChl-28">
+        <mxCell id="-2VNwlXYwppwmO5gHGTp-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3PhhbraUgSF7zt4RWChl-28" target="-2VNwlXYwppwmO5gHGTp-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="279.66000000000014" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-2VNwlXYwppwmO5gHGTp-3" value="Taro.previewImage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="-2VNwlXYwppwmO5gHGTp-3" value="Taro.previewImage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
           <mxGeometry x="560" y="520" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-2VNwlXYwppwmO5gHGTp-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="-2VNwlXYwppwmO5gHGTp-3" parent="1" source="3PhhbraUgSF7zt4RWChl-37">
+        <mxCell id="-2VNwlXYwppwmO5gHGTp-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3PhhbraUgSF7zt4RWChl-37" target="-2VNwlXYwppwmO5gHGTp-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="539.0000000000002" y="540" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5EdKLYofApgYYalALO4i-1" value="Share" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="166" width="300" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="5EdKLYofApgYYalALO4i-2" value="setWXH5FriendShareData 微信浏览器内分享好友" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5EdKLYofApgYYalALO4i-1">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5EdKLYofApgYYalALO4i-3" value="setWXH5MomentShareData 微信浏览器内分享朋友圈" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5EdKLYofApgYYalALO4i-1">
+          <mxGeometry y="52" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5EdKLYofApgYYalALO4i-4" value="shareInApp App内H5调jsapi分享" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5EdKLYofApgYYalALO4i-1">
+          <mxGeometry y="78" width="300" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
